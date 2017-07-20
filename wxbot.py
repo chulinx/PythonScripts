@@ -6,7 +6,7 @@ import time,datetime
 
 bot = Bot(cache_path=True)
 
-tuling = Tuling(api_key='0e8d70b241fcc4a898ee410937b0551220')
+tuling = Tuling(api_key='0e8d70b241fcc4a898ee0410937b0551220')
 
 
 naXienian=bot.groups().search(u'那些年')[0]
